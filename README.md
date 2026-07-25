@@ -33,8 +33,8 @@ This is a **parent / index repo**. It does not contain source code. Each row bel
 
 | Project | Description | Repo | Live Demo | Preview | Video |
 |:--------|:-------------|:-----|:----------|:--------|:------|
-| Fhir-Tech | A healthcare data management system| [Fhir-Tech](https://github.com/Mr-Anonymous-Guy/Fhir-Tech) | [Live](https://fhir-tech.vercel.app/) | ![preview](Public/Image/fhir-tech.png) |[▶ Watch Demo](Public/Videos/Fhir-Tech.mp4) |
-| Healthcare AI Prototype | Comprehensive, privacy-first healthcare AI platform| [Healthcare_AI_Prototype](https://github.com/Mr-Anonymous-Guy/Healthcare_AI_Prototype) | [Live](https://healthcare-ai-nu.vercel.app/) | ![preview](Public/Image/healthcare-ai-prototype.png) |[▶ Watch Demo](Public/Videos/Healthcare_AI_Prototype.mp4) |
+| Fhir-Tech | A healthcare data management system| [Fhir-Tech](https://github.com/Mr-Anonymous-Guy/Fhir-Tech) | [Live](https://fhir-tech.vercel.app/) | ![preview](Public/Image/fhir-tech.png) |[▶ Watch Demo](Public/Videos/Fhir-Tech.mp4?raw = true) |
+| Healthcare AI Prototype | Comprehensive, privacy-first healthcare AI platform| [Healthcare_AI_Prototype](https://github.com/Mr-Anonymous-Guy/Healthcare_AI_Prototype) | [Live](https://healthcare-ai-nu.vercel.app/) | ![preview](Public/Image/healthcare-ai-prototype.png) |[▶ Watch Demo](Public/Videos/Healthcare_AI_Prototype.mp4?raw=true) |
 
 ---
 
